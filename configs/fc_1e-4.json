@@ -1,0 +1,10 @@
+{
+    "model":{
+        "name": "fc"
+    },
+    "seed": 42,
+    "lr": 1e-4,
+    "z_dim": 64,
+    "batch_size": 32,
+    "epochs": 50
+}

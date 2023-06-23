@@ -1,0 +1,10 @@
+{
+    "model":{
+        "name": "cnn"
+    },
+    "seed": 42,
+    "lr": 5e-3,
+    "z_dim": 64,
+    "batch_size": 32,
+    "epochs": 50
+}
